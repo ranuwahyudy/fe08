@@ -1,0 +1,25 @@
+PSEUDOCODE MEMILIH MENU MAKANAN
+READ AND WRITE "nama_makanan" with string
+READ AND WRITE "pilihan" with number
+READ AND WRITE "porsi" with number
+READ AND WRITE "harga" with number
+
+PRINT "MENU MAKANAN"
+PRINT "PILIH MENU"
+STORE "pilih" with input ""
+PRINT "PORSI MAKANAN
+STORE "porsi" with input ""
+
+IF "pilih" equal 1
+	PRINT "nama_makanan"
+	PRINT "harga" 
+	PRINT "posri"
+ELSE IF "pilih" equal 2
+	PRINT "nama_makanan"
+	PRINT "harga" 
+	PRINT "posri"
+ELSE IF "pilih" equal 3
+	PRINT "nama_makanan"
+	PRINT "harga" 
+	PRINT "posri"
+END IF

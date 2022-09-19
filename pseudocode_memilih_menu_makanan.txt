@@ -13,13 +13,13 @@ STORE "porsi" with input ""
 IF "pilih" equal 1
 	PRINT "nama_makanan"
 	PRINT "harga" 
-	PRINT "posri"
+	PRINT "porsi"
 ELSE IF "pilih" equal 2
 	PRINT "nama_makanan"
 	PRINT "harga" 
-	PRINT "posri"
+	PRINT "porsi"
 ELSE IF "pilih" equal 3
 	PRINT "nama_makanan"
 	PRINT "harga" 
-	PRINT "posri"
+	PRINT "porsi"
 END IF

@@ -1,0 +1,7 @@
+STORE "name_makanan" AS STRING WITH ANY VALUE
+STORE "total_pesanan" AS NUMBER WITH ANY VALUE
+STORE "Harga" AS NUMBER WITH ANY VALUE
+STORE "total_pembayaran" AS NUMBER WITH 0
+
+STORE "total_pembayaran" WITH "total_pesanan" TIMES "Harga"
+DISPLAY "total_pembayaran"

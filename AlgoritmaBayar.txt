@@ -1,0 +1,12 @@
+Algoritma bayar pesanan makanan online :
+
+1. Pastikan pesanan yang dipesan sudah sesuai dengan yang akan dipesan.
+2. Apabila memiliki voucher, silakan pilih voucher yang digunakan.
+3. Pastikan alamat pemesanan sudah benar.
+4. Pilih metode pembayaran (PayOnline, COD, Bank, Dana, LinkAja)
+5. Jika memilih PayOnline maka akan menggunakan koin yang tersedia di aplikasi.
+6. Jika memilih melalui COD maka pembayaran dilakukan di tempat alamat yang sudah di tentukan.
+7. Jika memilih melalui Bank maka pilih bank yang dituju, kemudian masukan nominal, lalu masukan pin Bank, setelah itu akan mendapat notifikasi pembayaran.
+8. Jika memilih melalui Dana, LinkAja maka akan terhubung dengan akun Dana atau akun LinkAja. Apabila belum terhubung maka akan dilakukan konfirmasi ke nomor tersebut.
+9. Apabila pada pemilihan pembayaran melalui PayOnline, Bank, Dana, atau LinkAja tidak terpenuhi maka sisanya akan menggunakan pembayaran COD.
+10. Jika semua sudah benar, maka klik pesan untuk melakukan pemesanan.

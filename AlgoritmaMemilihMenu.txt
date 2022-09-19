@@ -1,0 +1,9 @@
+Algoritma Memilih Menu Makanan
+
+1. Masukan Pilihan
+2. Jika Pilihan = 1 maka Menu = "Nasi Padang"
+Jika Pilihan = 2 maka Menu = "Nasi Cikur"
+Jika Pilihan = 3 maka Menu = "Nasi Bakar"
+Jika Pilihan = 4 maka Menu = "Ayam Goreng"
+Jika Pilihan = 5 maka Menu = "Jus Mangga"
+Jika Pilihan = 6 maka Menu = "Lemon Tea"
